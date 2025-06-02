@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\01-ExtractEmails\bin\Debug\01-ExtractEmails.exe.config
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\01-ExtractEmails\bin\Debug\01-ExtractEmails.exe
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\01-ExtractEmails\bin\Debug\01-ExtractEmails.pdb
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\01-ExtractEmails\obj\Debug\01-ExtractEmails.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\01-ExtractEmails\obj\Debug\01-ExtractEmails.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\01-ExtractEmails\obj\Debug\01-ExtractEmails.exe
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\01-ExtractEmails\obj\Debug\01-ExtractEmails.pdb
