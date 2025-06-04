@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\04-Weather\bin\Debug\04-Weather.exe.config
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\04-Weather\bin\Debug\04-Weather.exe
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\04-Weather\bin\Debug\04-Weather.pdb
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\04-Weather\obj\Debug\04-Weather.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\04-Weather\obj\Debug\04-Weather.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\04-Weather\obj\Debug\04-Weather.exe
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\04-Weather\obj\Debug\04-Weather.pdb
