@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\06-ValidUsernames\bin\Debug\06-ValidUsernames.exe.config
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\06-ValidUsernames\bin\Debug\06-ValidUsernames.exe
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\06-ValidUsernames\bin\Debug\06-ValidUsernames.pdb
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\06-ValidUsernames\obj\Debug\06-ValidUsernames.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\06-ValidUsernames\obj\Debug\06-ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\06-ValidUsernames\obj\Debug\06-ValidUsernames.exe
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\06-ValidUsernames\obj\Debug\06-ValidUsernames.pdb
