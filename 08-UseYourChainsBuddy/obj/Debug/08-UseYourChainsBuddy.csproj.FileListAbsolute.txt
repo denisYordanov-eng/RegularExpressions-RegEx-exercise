@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\08-UseYourChainsBuddy\obj\Debug\08-UseYourChainsBuddy.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\08-UseYourChainsBuddy\obj\Debug\08-UseYourChainsBuddy.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\08-UseYourChainsBuddy\bin\Debug\08-UseYourChainsBuddy.exe.config
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\08-UseYourChainsBuddy\bin\Debug\08-UseYourChainsBuddy.exe
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\08-UseYourChainsBuddy\bin\Debug\08-UseYourChainsBuddy.pdb
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\08-UseYourChainsBuddy\obj\Debug\08-UseYourChainsBuddy.exe
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\08-UseYourChainsBuddy\obj\Debug\08-UseYourChainsBuddy.pdb
