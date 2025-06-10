@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\07-QueryMess\bin\Debug\07-QueryMess.exe.config
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\07-QueryMess\bin\Debug\07-QueryMess.exe
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\07-QueryMess\bin\Debug\07-QueryMess.pdb
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\07-QueryMess\obj\Debug\07-QueryMess.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\07-QueryMess\obj\Debug\07-QueryMess.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\07-QueryMess\obj\Debug\07-QueryMess.exe
+C:\Users\Laptop\Desktop\C#\Regular Expressions (RegEx)-exercise\regex\07-QueryMess\obj\Debug\07-QueryMess.pdb
